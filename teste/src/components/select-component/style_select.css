@@ -1,0 +1,5 @@
+#divselect{
+    display: flex;
+    background-color: hsl(249, 98%, 19%);
+    width: 100%;
+}
